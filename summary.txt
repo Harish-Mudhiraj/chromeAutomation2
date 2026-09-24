@@ -1,0 +1,10 @@
+SCRAPING SUMMARY
+================
+Website  : https://books.toscrape.com
+Date     : 15/5/2026, 8:48:45 am
+Total    : 20 books scraped
+
+FILES SAVED:
+- books.json  → Full data in JSON format
+- books.csv   → Open in Excel
+- books.txt   → Plain text report
